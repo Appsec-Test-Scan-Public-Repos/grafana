@@ -21,7 +21,7 @@
     "@grafana/data": "12.2.0-pre",
     "@grafana/e2e-selectors": "12.2.0-pre",
     "@grafana/plugin-ui": "0.10.7",
-    "@grafana/runtime": "12.2.0-pre",
+    "@grafana/runtime": "6.3.2",
     "@grafana/schema": "12.2.0-pre",
     "@grafana/ui": "12.2.0-pre",
     "react-select": "5.10.2",
